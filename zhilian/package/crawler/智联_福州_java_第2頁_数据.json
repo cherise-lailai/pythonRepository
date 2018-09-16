@@ -1,0 +1,4843 @@
+{
+	"code": 200,
+	"data": {
+		"numFound": 1523,
+		"results": [{
+			"number": "CC645515736J00083536606",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "687",
+					"name": "嵌入式软件开发"
+				}],
+				"display": "软件/互联网开发/系统集成,嵌入式软件开发"
+			},
+			"company": {
+				"number": "CZ645515730",
+				"url": "https://company.zhaopin.com/CZ645515730.htm",
+				"name": "北京华信智原教育技术有限公司福州分公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC645515736J00083536606.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "5K-8K",
+			"emplType": "全职",
+			"jobName": "Java软件测试助理",
+			"industry": "160000,160400,300300,201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.098176",
+				"lon": "119.306872"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 16:09:57",
+			"createDate": "2018-09-15 16:09:57",
+			"endDate": "2018-10-15 16:09:57",
+			"welfare": ["周末双休",
+			"五险一金",
+			"每年多次调薪",
+			"节日福利",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.6949,
+			"score": 496.676,
+			"resumeCount": 15,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/064/551/064551573/logo/0a15115c-86c4-41dd-aa35-004c18c5a4b9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "69%"
+		},
+		{
+			"number": "CC645515736J00082735906",
+			"jobType": {
+				"items": [{
+					"code": "160400",
+					"name": "IT质量管理/测试/配置管理"
+				},
+				{
+					"code": "2064",
+					"name": "游戏测试"
+				}],
+				"display": "IT质量管理/测试/配置管理,游戏测试"
+			},
+			"company": {
+				"number": "CZ645515730",
+				"url": "https://company.zhaopin.com/CZ645515730.htm",
+				"name": "北京华信智原教育技术有限公司福州分公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC645515736J00082735906.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "4K-8K",
+			"emplType": "全职",
+			"jobName": "Java开发实习生/双休",
+			"industry": "160000,160400,300300,201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.098176",
+				"lon": "119.306872"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 14:03:40",
+			"createDate": "2018-09-15 14:03:40",
+			"endDate": "2018-10-15 14:03:40",
+			"welfare": ["周末双休",
+			"五险一金",
+			"每年多次调薪",
+			"节日福利",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.5957,
+			"score": 495.828,
+			"resumeCount": 11,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/064/551/064551573/logo/0a15115c-86c4-41dd-aa35-004c18c5a4b9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "59%"
+		},
+		{
+			"number": "CC645515736J00082127506",
+			"jobType": {
+				"items": [{
+					"code": "141000",
+					"name": "房地产开发/经纪/中介"
+				},
+				{
+					"code": "105",
+					"name": "房地产中介/交易"
+				}],
+				"display": "房地产开发/经纪/中介,房地产中介/交易"
+			},
+			"company": {
+				"number": "CZ645515730",
+				"url": "https://company.zhaopin.com/CZ645515730.htm",
+				"name": "北京华信智原教育技术有限公司福州分公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC645515736J00082127506.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "4K-8K",
+			"emplType": "全职",
+			"jobName": "转行JAVA开发工程师助理",
+			"industry": "160000,160400,300300,201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.098176",
+				"lon": "119.306872"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 21:10:49",
+			"createDate": "2018-09-15 21:10:49",
+			"endDate": "2018-10-15 21:10:49",
+			"welfare": ["周末双休",
+			"五险一金",
+			"每年多次调薪",
+			"带薪年假",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0.5918,
+			"score": 495.672,
+			"resumeCount": 14,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/064/551/064551573/logo/0a15115c-86c4-41dd-aa35-004c18c5a4b9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "59%"
+		},
+		{
+			"number": "CC208519412J00072982214",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ208519410",
+				"url": "https://company.zhaopin.com/CZ208519410.htm",
+				"name": "能科科技股份有限公司",
+				"size": {
+					"code": "4",
+					"name": "500-999人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC208519412J00072982214.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-12K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "121200",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.085057",
+				"lon": "119.325935"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-27 19:47:16",
+			"createDate": "2018-08-27 19:47:16",
+			"endDate": "2018-10-26 19:47:16",
+			"welfare": ["五险一金",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 495.44,
+			"resumeCount": 1,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC000622871J00079404410",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ000622870",
+				"url": "http://special.zhaopin.com/bj/2011/rj01242223/index.htm",
+				"name": "锐捷网络股份有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "4",
+					"name": "合资"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC000622871J00079404410.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "15K-25K",
+			"emplType": "全职",
+			"jobName": "高级JAVA工程师(J14599)",
+			"industry": "160100,160200,160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.055062",
+				"lon": "119.240026"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-17 10:55:36",
+			"createDate": "2018-08-17 10:55:36",
+			"endDate": "2018-09-16 10:55:36",
+			"welfare": [],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 495.36,
+			"resumeCount": 1,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://campusimage.zhaopin.com/pic/cimg/Company/Logo/62287/203754161729_136x136.png",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC120564559J90253294000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ120564550",
+				"url": "https://company.zhaopin.com/CZ120564550.htm",
+				"name": "深圳市长亮科技股份有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/120564559253294.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-20K",
+			"emplType": "全职",
+			"jobName": "中级JAVA开发工程师出差、有差补",
+			"industry": "160400,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "22.548286",
+				"lon": "113.927657"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 16:55:44",
+			"createDate": "2018-09-13 16:55:43",
+			"endDate": "2018-10-13 16:55:43",
+			"welfare": ["节日福利",
+			"五险一金",
+			"年底双薪",
+			"绩效奖金",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 494.64,
+			"resumeCount": 6,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20150820/094C1DEDB5094C40BFF0A0A9FF9F62B9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": ""
+		},
+		{
+			"number": "CC271630188J90253341000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "44",
+					"name": "高级软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,高级软件工程师"
+			},
+			"company": {
+				"number": "CZ271630180",
+				"url": "https://company.zhaopin.com/CZ271630180.htm",
+				"name": "北京思源互联科技有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/271630188253341.htm",
+			"workingExp": {
+				"code": "510",
+				"name": "5-10年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "15K-20K",
+			"emplType": "全职",
+			"jobName": "资深/高级/中级Java研发工程师J10745",
+			"industry": "210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.112543",
+				"lon": "119.270014"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-11 11:32:52",
+			"createDate": "2017-11-24 10:24:08",
+			"endDate": "2018-11-04 23:59:59",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"带薪年假",
+			"定期体检",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 494,
+			"resumeCount": 0,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20150708/B89F169EA9D5488A918692FB4CA314DD.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC261087114J00111055908",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ261087110",
+				"url": "https://company.zhaopin.com/CZ261087110.htm",
+				"name": "轩亚(福州)信息技术有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC261087114J00111055908.htm",
+			"workingExp": {
+				"code": "510",
+				"name": "5-10年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "15K-20K",
+			"emplType": "全职",
+			"jobName": "Java架构师",
+			"industry": "160000,210500,160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.057159",
+				"lon": "119.261966"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2253",
+					"name": "仓山区"
+				}],
+				"display": "福州-仓山区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-03 14:19:54",
+			"createDate": "2018-09-03 14:19:54",
+			"endDate": "2018-10-03 14:19:54",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"全勤奖",
+			"带薪年假",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 0.9091,
+			"score": 492.604,
+			"resumeCount": 1,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/026/108/026108711/logo/b030699a-d788-4330-a58c-f502df0a5a01.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "90%"
+		},
+		{
+			"number": "CC151631712J90286340000",
+			"jobType": {
+				"items": [{
+					"code": "200500",
+					"name": "IT运维/技术支持"
+				},
+				{
+					"code": "58",
+					"name": "IT技术支持/维护经理"
+				}],
+				"display": "IT运维/技术支持,IT技术支持/维护经理"
+			},
+			"company": {
+				"number": "CZ151631710",
+				"url": "https://company.zhaopin.com/CZ151631710.htm",
+				"name": "北京骏嘉财通科技有限公司",
+				"size": {
+					"code": "4",
+					"name": "500-999人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/151631712286340.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "6K-8K",
+			"emplType": "全职",
+			"jobName": "Java实施工程师（高薪+快速晋升）",
+			"industry": "160400,180000,210500,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.071019",
+				"lon": "119.312473"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2252",
+					"name": "台江区"
+				}],
+				"display": "福州-台江区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-23 00:09:25",
+			"createDate": "2018-07-14 20:26:22",
+			"endDate": "2018-09-26 20:26:22",
+			"welfare": ["创业公司",
+			"五险一金",
+			"包住",
+			"带薪年假",
+			"弹性工作"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 492.24,
+			"resumeCount": 4,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20150628/84A2CFAE66984DC5A5CDE84EF5A8528F.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC476920320J90250056000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "79",
+					"name": "软件研发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件研发工程师"
+			},
+			"company": {
+				"number": "CZ476920320",
+				"url": "https://company.zhaopin.com/CZ476920320.htm",
+				"name": "福建合诚信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/476920320250056.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "8K-15K",
+			"emplType": "全职",
+			"jobName": "JAVA研发工程师",
+			"industry": "160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-12 09:50:11",
+			"createDate": "2018-09-07 16:34:28",
+			"endDate": "2018-10-07 16:34:28",
+			"welfare": ["五险一金",
+			"带薪年假",
+			"定期体检",
+			"节日福利",
+			"周末双休"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 492,
+			"resumeCount": 0,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CC146246613J00070478206",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ146246610",
+				"url": "https://company.zhaopin.com/CZ146246610.htm",
+				"name": "国网信通亿力科技有限责任公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC146246613J00070478206.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "5K-10K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "130100,160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.108474",
+				"lon": "119.262131"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 13:56:27",
+			"createDate": "2018-05-09 16:50:37",
+			"endDate": "2019-04-24 16:50:37",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"全勤奖",
+			"交通补助",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0.5,
+			"score": 492,
+			"resumeCount": 8,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "50%"
+		},
+		{
+			"number": "CC204290918J00132979204",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ204290910",
+				"url": "https://company.zhaopin.com/CZ204290910.htm",
+				"name": "努比亚技术有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC204290918J00132979204.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "15K-20K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "160100,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.101085",
+				"lon": "119.302848"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-12 17:30:30",
+			"createDate": "2018-09-06 18:44:12",
+			"endDate": "2018-10-06 18:44:12",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"交通补助",
+			"通讯补贴",
+			"定期体检"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 491.28,
+			"resumeCount": 1,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "//company.zhaopin.com/CompanyLogo/20180308/0CFB00F220109A9122EC4ABEDDCE8DF9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": ""
+		},
+		{
+			"number": "CC645515736J00082560506",
+			"jobType": {
+				"items": [{
+					"code": "200500",
+					"name": "IT运维/技术支持"
+				},
+				{
+					"code": "41",
+					"name": "信息技术专员"
+				}],
+				"display": "IT运维/技术支持,信息技术专员"
+			},
+			"company": {
+				"number": "CZ645515730",
+				"url": "https://company.zhaopin.com/CZ645515730.htm",
+				"name": "北京华信智原教育技术有限公司福州分公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC645515736J00082560506.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "5K-8K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师助理/双休",
+			"industry": "160000,160400,300300,201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.098176",
+				"lon": "119.306872"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 14:03:40",
+			"createDate": "2018-09-15 14:03:39",
+			"endDate": "2018-10-15 14:03:39",
+			"welfare": ["周末双休",
+			"五险一金",
+			"每年多次调薪",
+			"节日福利",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.4878,
+			"score": 488.472,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/064/551/064551573/logo/0a15115c-86c4-41dd-aa35-004c18c5a4b9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": ""
+		},
+		{
+			"number": "CC150314414J90251923000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ150314410",
+				"url": "http://special.zhaopin.com/pagepublish/15031441/index.html",
+				"name": "厦门市美亚柏科信息股份有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/150314414251923.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "6K-12K",
+			"emplType": "全职",
+			"jobName": "Java研发工程师",
+			"industry": "160400,160200,121200,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "24.487535",
+				"lon": "118.178493"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-10 11:59:28",
+			"createDate": "2018-09-05 08:55:51",
+			"endDate": "2018-10-05 08:55:51",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"弹性工作",
+			"定期体检",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 488.24,
+			"resumeCount": 1,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC594177525J90250312000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ594177520",
+				"url": "https://company.zhaopin.com/CZ594177520.htm",
+				"name": "福建未来无线信息技术有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/594177525250312.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "8K-15K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师",
+			"industry": "160100,210500,160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2255",
+					"name": "晋安区"
+				}],
+				"display": "福州-晋安区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-10 16:30:22",
+			"createDate": "2018-09-10 16:30:21",
+			"endDate": "2018-10-10 16:30:21",
+			"welfare": ["节日福利",
+			"周末双休",
+			"五险一金",
+			"全勤奖"],
+			"saleType": 0,
+			"feedbackRation": 0.4,
+			"score": 488,
+			"resumeCount": 3,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20160531/4267430CE02E403BB90F4E2473BED28A.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC599165528J90250439000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ599165520",
+				"url": "https://company.zhaopin.com/CZ599165520.htm",
+				"name": "上海屹通信息科技发展有限公司",
+				"size": {
+					"code": "4",
+					"name": "500-999人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/599165528250439.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "6K-8K",
+			"emplType": "全职",
+			"jobName": "奔跑吧，Java工程师（福州）",
+			"industry": "160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-04 15:09:55",
+			"createDate": "2018-07-26 09:42:17",
+			"endDate": "2018-09-23 09:42:17",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"包吃",
+			"包住",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 487.6,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC404538080J00134241302",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ404538080",
+				"url": "https://company.zhaopin.com/CZ404538080.htm",
+				"name": "杭州半云科技有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC404538080J00134241302.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "8K-13K",
+			"emplType": "全职",
+			"jobName": "JAVA开发工程师",
+			"industry": "160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.079297",
+				"lon": "119.262422"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-07 10:04:54",
+			"createDate": "2018-09-06 15:57:57",
+			"endDate": "2018-10-06 15:57:57",
+			"welfare": ["创业公司",
+			"五险一金",
+			"餐补",
+			"带薪年假",
+			"弹性工作"],
+			"saleType": 0,
+			"feedbackRation": 0.3333,
+			"score": 485.332,
+			"resumeCount": 3,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://zhaopin-rd5-pub.oss-cn-beijing.aliyuncs.com/imgs/company/5213650768b48560552b6470634c0127.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC645515736J00121724906",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ645515730",
+				"url": "https://company.zhaopin.com/CZ645515730.htm",
+				"name": "北京华信智原教育技术有限公司福州分公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC645515736J00121724906.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "8K-15K",
+			"emplType": "全职",
+			"jobName": "Java高级开发工程师",
+			"industry": "160000,160400,300300,201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.098176",
+				"lon": "119.306872"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 14:03:43",
+			"createDate": "2018-09-15 14:03:42",
+			"endDate": "2019-08-18 14:03:42",
+			"welfare": ["周末双休",
+			"五险一金",
+			"每年多次调薪",
+			"节日福利",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.3333,
+			"score": 485.332,
+			"resumeCount": 3,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/064/551/064551573/logo/0a15115c-86c4-41dd-aa35-004c18c5a4b9.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": ""
+		},
+		{
+			"number": "CZ674414180J00177655403",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ674414180",
+				"url": "https://company.zhaopin.com/CZ674414180.htm",
+				"name": "福州数据技术研究院有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CZ674414180J00177655403.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-20K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "160400,160000,300100,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "25.880157",
+				"lon": "119.590506"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-03 10:53:28",
+			"createDate": "2018-08-30 11:07:45",
+			"endDate": "2018-11-28 11:07:45",
+			"welfare": ["周末双休",
+			"五险一金",
+			"绩效奖金",
+			"带薪年假",
+			"交通补助"],
+			"saleType": 0,
+			"feedbackRation": 0.5714,
+			"score": 484.856,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/067/441/067441418/logo/29113f65-9244-47dc-9ef4-82a62f624e99.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "57%"
+		},
+		{
+			"number": "CC542654027J90250400000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ542654020",
+				"url": "http://special.zhaopin.com/pagepublish/54265402/index.html",
+				"name": "福建新大陆支付技术有限公司",
+				"size": {
+					"code": "4",
+					"name": "500-999人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/542654027250400.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "7K-14K",
+			"emplType": "全职",
+			"jobName": "Java软件开发工程师",
+			"industry": "160400,160000,160200",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.018625",
+				"lon": "119.411015"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 09:50:51",
+			"createDate": "2018-09-05 16:54:03",
+			"endDate": "2018-10-05 16:54:03",
+			"welfare": ["五险一金",
+			"加班补助",
+			"带薪年假",
+			"定期体检",
+			"免费班车"],
+			"saleType": 0,
+			"feedbackRation": 0.5641,
+			"score": 480.80402,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20160308/B50067332EC74A2DB7F20A287F869F37.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "56%"
+		},
+		{
+			"number": "CC348415584J00085291607",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ348415580",
+				"url": "https://company.zhaopin.com/CZ348415580.htm",
+				"name": "福州新途信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC348415584J00085291607.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.074507",
+				"lon": "119.296494"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-07 08:03:37",
+			"createDate": "2018-09-07 08:03:37",
+			"endDate": "2018-10-07 08:03:37",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"周末双休"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 8,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/034/841/034841558/logo/3f1a4e86-86e8-4e53-9183-85c2ee11e5e5.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CC382446782J90250000000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "44",
+					"name": "高级软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,高级软件工程师"
+			},
+			"company": {
+				"number": "CZ382446780",
+				"url": "https://company.zhaopin.com/CZ382446780.htm",
+				"name": "福建国民商用软件股份有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/382446782250000.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "8K-16K",
+			"emplType": "全职",
+			"jobName": "Java高级软件工程师",
+			"industry": "160400,121500,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.069372",
+				"lon": "119.278235"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 11:28:58",
+			"createDate": "2018-09-14 11:28:58",
+			"endDate": "2018-10-14 11:28:58",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"全勤奖",
+			"员工旅游",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "100%"
+		},
+		{
+			"number": "CC460015620J00076435303",
+			"jobType": {
+				"items": [{
+					"code": "160100",
+					"name": "电子/电器/半导体/仪器仪表"
+				},
+				{
+					"code": "33",
+					"name": "自动化工程师"
+				}],
+				"display": "电子/电器/半导体/仪器仪表,自动化工程师"
+			},
+			"company": {
+				"number": "CZ460015620",
+				"url": "https://company.zhaopin.com/CZ460015620.htm",
+				"name": "福州达内信息科技有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC460015620J00076435303.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "12",
+				"name": "中专"
+			},
+			"salary": "4K-6K",
+			"emplType": "全职",
+			"jobName": "理工科转（可学）java开发工程师助理+",
+			"industry": "201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.053419",
+				"lon": "119.255530"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-25 09:54:12",
+			"createDate": "2018-08-25 09:54:12",
+			"endDate": "2018-09-24 09:54:12",
+			"welfare": ["创业公司",
+			"五险一金",
+			"餐补",
+			"房补",
+			"绩效奖金"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CC657845239J00131148404",
+			"jobType": {
+				"items": [{
+					"code": "5006000",
+					"name": "实习生/培训生/储备干部"
+				},
+				{
+					"code": "299",
+					"name": "实习生"
+				}],
+				"display": "实习生/培训生/储备干部,实习生"
+			},
+			"company": {
+				"number": "CZ657845230",
+				"url": "https://company.zhaopin.com/CZ657845230.htm",
+				"name": "北京云教互动科技有限公司福建分公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC657845239J00131148404.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "3K-6K",
+			"emplType": "全职",
+			"jobName": "JAVA实习生（双休）",
+			"industry": "210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 09:19:55",
+			"createDate": "2018-09-04 10:16:03",
+			"endDate": "2018-10-04 10:16:03",
+			"welfare": ["周末双休",
+			"五险一金",
+			"全勤奖",
+			"员工旅游",
+			"定期体检"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 5,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "100%"
+		},
+		{
+			"number": "CC387033935J00135081202",
+			"jobType": {
+				"items": [{
+					"code": "2090000",
+					"name": "教育/培训"
+				},
+				{
+					"code": "131",
+					"name": "培训师/讲师"
+				}],
+				"display": "教育/培训,培训师/讲师"
+			},
+			"company": {
+				"number": "CZ387033930",
+				"url": "https://company.zhaopin.com/CZ387033930.htm",
+				"name": "福州尚书坊教育科技有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC387033935J00135081202.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "Java讲师",
+			"industry": "160000,210500,160400,160600",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.084774",
+				"lon": "119.291364"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-08 09:27:00",
+			"createDate": "2018-09-08 09:27:00",
+			"endDate": "2018-10-08 09:27:00",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"通讯补贴",
+			"带薪年假",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 1,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CZ698164930J00121576806",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ698164930",
+				"url": "https://company.zhaopin.com/CZ698164930.htm",
+				"name": "福州联誉信息科技有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CZ698164930J00121576806.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-12K",
+			"emplType": "全职",
+			"jobName": "Java工程师",
+			"industry": "160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "24.968330",
+				"lon": "118.570719"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 14:36:21",
+			"createDate": "2018-09-13 14:36:21",
+			"endDate": "2018-10-13 14:36:21",
+			"welfare": ["年底双薪",
+			"加班补助",
+			"节日福利",
+			"全勤奖"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 8,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/069/816/069816493/logo/c6faf04a-ba5b-4daa-82db-a203d91f6fde.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "100%"
+		},
+		{
+			"number": "CC455138730J00127027302",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ455138730",
+				"url": "https://company.zhaopin.com/CZ455138730.htm",
+				"name": "福州海都杉木电子商务有限公司",
+				"size": {
+					"code": "1",
+					"name": "20人以下"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC455138730J00127027302.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "8K-15K",
+			"emplType": "全职",
+			"jobName": "高级java开发工程师",
+			"industry": "210500,170500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.006459",
+				"lon": "119.355200"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-23 14:49:02",
+			"createDate": "2018-08-23 14:49:02",
+			"endDate": "2018-09-22 14:49:02",
+			"welfare": ["周末双休",
+			"节日福利",
+			"年终分红",
+			"绩效奖金",
+			"五险一金"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CC120181823J90250410000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ120181820",
+				"url": "https://company.zhaopin.com/CZ120181820.htm",
+				"name": "志品（福州）技术工程有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/120181823250410.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "4K-8K",
+			"emplType": "全职",
+			"jobName": "JAVA软件工程师（0-3年）",
+			"industry": "140000,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.019802",
+				"lon": "119.429115"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2254",
+					"name": "马尾区"
+				}],
+				"display": "福州-马尾区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 17:30:48",
+			"createDate": "2018-08-20 08:48:49",
+			"endDate": "2018-09-19 08:48:49",
+			"welfare": ["节日福利",
+			"五险一金",
+			"绩效奖金",
+			"带薪年假",
+			"免费班车"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 30,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "100%"
+		},
+		{
+			"number": "CC583338081J00033535210",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ583338080",
+				"url": "https://company.zhaopin.com/CZ583338080.htm",
+				"name": "北京中盾安信科技发展有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC583338081J00033535210.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-20K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "210500,160000,160100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.112542",
+				"lon": "119.270014"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 08:50:40",
+			"createDate": "2018-09-14 08:50:39",
+			"endDate": "2018-10-14 08:50:39",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"年终分红",
+			"交通补助",
+			"带薪年假"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 22,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "100%"
+		},
+		{
+			"number": "CC698519481J00167359205",
+			"jobType": {
+				"items": [{
+					"code": "5003000",
+					"name": "机械设计/制造/维修"
+				},
+				{
+					"code": "93",
+					"name": "机械设计师"
+				}],
+				"display": "机械设计/制造/维修,机械设计师"
+			},
+			"company": {
+				"number": "CZ698519480",
+				"url": "https://company.zhaopin.com/CZ698519480.htm",
+				"name": "福州达康同创信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC698519481J00167359205.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "4K-6K",
+			"emplType": "全职",
+			"jobName": "5K起Java开发实习生/助理",
+			"industry": "160400,210500,160000,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.080442",
+				"lon": "119.262074"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 17:49:29",
+			"createDate": "2018-09-15 17:49:28",
+			"endDate": "2018-10-15 17:49:28",
+			"welfare": ["每年多次调薪",
+			"绩效奖金",
+			"带薪年假",
+			"弹性工作",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 480,
+			"resumeCount": 5,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "100%"
+		},
+		{
+			"number": "CC132200876J90250005000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ132200870",
+				"url": "https://company.zhaopin.com/CZ132200870.htm",
+				"name": "福州金瑞迪软件技术有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/132200876250005.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "3.5K-6K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师",
+			"industry": "160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.041604",
+				"lon": "119.261412"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 07:16:30",
+			"createDate": "2018-09-12 16:53:47",
+			"endDate": "2018-10-12 16:53:47",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0.993,
+			"score": 479.72,
+			"resumeCount": 33,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/013/220/013220087/logo/ae382938-fb90-41d4-90a2-e7c463d5fb39.png",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "99%"
+		},
+		{
+			"number": "CC257744535J90250051000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ257744530",
+				"url": "https://company.zhaopin.com/CZ257744530.htm",
+				"name": "天瑞康健(福州)信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/257744535250051.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师",
+			"industry": "160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.081976",
+				"lon": "119.281566"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 09:25:16",
+			"createDate": "2017-10-30 08:51:51",
+			"endDate": "2018-10-21 23:59:59",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"绩效奖金",
+			"加班补助",
+			"带薪年假"],
+			"saleType": 0,
+			"feedbackRation": 0.987,
+			"score": 479.48,
+			"resumeCount": 23,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "98%"
+		},
+		{
+			"number": "CC698519481J00169049205",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ698519480",
+				"url": "https://company.zhaopin.com/CZ698519480.htm",
+				"name": "福州达康同创信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC698519481J00169049205.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "4K-6K",
+			"emplType": "全职",
+			"jobName": "嵌入式软件开发/Java开发工程师助理",
+			"industry": "160400,210500,160000,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.080442",
+				"lon": "119.262074"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2253",
+					"name": "仓山区"
+				}],
+				"display": "福州-仓山区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 17:49:28",
+			"createDate": "2018-09-15 17:49:27",
+			"endDate": "2018-10-15 17:49:27",
+			"welfare": ["每年多次调薪",
+			"绩效奖金",
+			"带薪年假",
+			"弹性工作",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 479.28,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "100%"
+		},
+		{
+			"number": "CC577873225J00135948803",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ577873220",
+				"url": "http://special.zhaopin.com/pagepublish/57787322/index.html",
+				"name": "福建九天达信息科技股份有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC577873225J00135948803.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "160500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.103450",
+				"lon": "119.253495"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 09:02:10",
+			"createDate": "2018-09-10 15:12:29",
+			"endDate": "2018-10-10 15:12:29",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"全勤奖",
+			"带薪年假",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 0.9818,
+			"score": 479.272,
+			"resumeCount": 30,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "98%"
+		},
+		{
+			"number": "CC120220260J90270436000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ120220260",
+				"url": "https://company.zhaopin.com/CZ120220260.htm",
+				"name": "文思海辉技术有限公司 Pactera Technology International Limited",
+				"size": {
+					"code": "6",
+					"name": "10000人以上"
+				},
+				"type": {
+					"code": "2",
+					"name": "外商独资"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/120220260270436.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "薪资面议",
+			"emplType": "全职",
+			"jobName": "Java开发工程师（出差）",
+			"industry": "160000,160400,160100,200300",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-03-01 18:37:02",
+			"createDate": "2018-03-01 18:37:02",
+			"endDate": "2018-12-05 23:59:59",
+			"welfare": [],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 479.2,
+			"resumeCount": 6,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20121112/BD9BBDEA98AF456C92ED1DA4E20826E6.gif",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC299008687J00063064405",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ299008680",
+				"url": "https://company.zhaopin.com/CZ299008680.htm",
+				"name": "福建爱巴士网络科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC299008687J00063064405.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "210500,160400,160000,150000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.075320",
+				"lon": "119.320835"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-11 10:46:16",
+			"createDate": "2018-09-10 17:19:23",
+			"endDate": "2019-03-24 17:19:23",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"包住",
+			"餐补",
+			"带薪年假"],
+			"saleType": 0,
+			"feedbackRation": 0.9683,
+			"score": 478.732,
+			"resumeCount": 15,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20150818/2F76BAD9DF054243AF675D578FAD07F4.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "96%"
+		},
+		{
+			"number": "CC256610682J00189213205",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ256610680",
+				"url": "https://company.zhaopin.com/CZ256610680.htm",
+				"name": "福建汇川物联网技术科技股份有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC256610682J00189213205.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-8K",
+			"emplType": "全职",
+			"jobName": "JAVA开发工程师【上市公司/五险一金】",
+			"industry": "160500,121100,300100,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.069462",
+				"lon": "119.278167"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 14:20:53",
+			"createDate": "2018-09-10 15:51:12",
+			"endDate": "2018-11-09 15:51:12",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"带薪年假",
+			"员工旅游",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.6667,
+			"score": 478.668,
+			"resumeCount": 3,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20150925/9E7E530DFD434068AB24585306C35320.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "66%"
+		},
+		{
+			"number": "CC435740986J90250006000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ435740980",
+				"url": "https://company.zhaopin.com/CZ435740980.htm",
+				"name": "福建智天气信息技术有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/435740986250006.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师",
+			"industry": "160100,160200,160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-20 11:03:17",
+			"createDate": "2018-08-20 11:03:16",
+			"endDate": "2018-09-19 11:03:16",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"餐补",
+			"带薪年假",
+			"定期体检"],
+			"saleType": 0,
+			"feedbackRation": 0.963,
+			"score": 478.52,
+			"resumeCount": 14,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20170206/2CF0C8562EFA4E6FBFCBC629A01DF53C.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "96%"
+		},
+		{
+			"number": "CC363953317J00033694304",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ363953310",
+				"url": "http://special.zhaopin.com/pagepublish/36395331/index.html",
+				"name": "福建省数字安全证书管理有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC363953317J00033694304.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "6K-8K",
+			"emplType": "全职",
+			"jobName": "java高级工程师",
+			"industry": "160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.099887",
+				"lon": "119.313008"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-11 14:41:05",
+			"createDate": "2018-07-31 15:42:48",
+			"endDate": "2018-09-29 15:42:48",
+			"welfare": ["五险一金",
+			"高温补贴",
+			"带薪年假",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0.9545,
+			"score": 478.18,
+			"resumeCount": 5,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "95%"
+		},
+		{
+			"number": "CC241000215J90252184000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ241000210",
+				"url": "http://special.zhaopin.com/2016/fz/11102/zglh091455/",
+				"name": "中国联合网络通信有限公司福建省分公司（中国联通）",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/241000215252184.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "3",
+				"name": "硕士"
+			},
+			"salary": "8K-10K",
+			"emplType": "全职",
+			"jobName": "Java后端工程师",
+			"industry": "160100,300100,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-04-08 15:17:09",
+			"createDate": "2018-04-08 15:17:08",
+			"endDate": "2019-02-09 23:59:59",
+			"welfare": ["节日福利",
+			"周末双休",
+			"五险一金",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 477.76,
+			"resumeCount": 3,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20161116/BC200928E63244B3969DD04CC9FF9598.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC455138730J00087345702",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ455138730",
+				"url": "https://company.zhaopin.com/CZ455138730.htm",
+				"name": "福州海都杉木电子商务有限公司",
+				"size": {
+					"code": "1",
+					"name": "20人以下"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC455138730J00087345702.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"salary": "8K-15K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "210500,170500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.042719",
+				"lon": "119.214750"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-21 09:39:46",
+			"createDate": "2018-08-21 09:39:45",
+			"endDate": "2018-09-20 09:39:45",
+			"welfare": ["五险一金",
+			"周末双休",
+			"节日福利",
+			"餐补",
+			"交通补助"],
+			"saleType": 0,
+			"feedbackRation": 0.9333,
+			"score": 477.332,
+			"resumeCount": 4,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "93%"
+		},
+		{
+			"number": "CC241000215J00092157106",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ241000210",
+				"url": "http://special.zhaopin.com/2016/fz/11102/zglh091455/",
+				"name": "中国联合网络通信有限公司福建省分公司（中国联通）",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC241000215J00092157106.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "12K-15K",
+			"emplType": "全职",
+			"jobName": "Java后端工程师",
+			"industry": "160100,300100,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.073598",
+				"lon": "119.250766"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2472",
+					"name": "长乐"
+				}],
+				"display": "福州-长乐"
+			},
+			"applyType": "1",
+			"updateDate": "2018-06-15 22:51:30",
+			"createDate": "2018-06-15 22:51:29",
+			"endDate": "2019-02-08 22:51:29",
+			"welfare": ["节日福利",
+			"周末双休",
+			"五险一金",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0,
+			"score": 476.96,
+			"resumeCount": 4,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20161116/BC200928E63244B3969DD04CC9FF9598.jpg",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": ""
+		},
+		{
+			"number": "CC698519481J00167360805",
+			"jobType": {
+				"items": [{
+					"code": "7003000",
+					"name": "汽车制造"
+				},
+				{
+					"code": "872",
+					"name": "汽车动力系统工程师"
+				}],
+				"display": "汽车制造,汽车动力系统工程师"
+			},
+			"company": {
+				"number": "CZ698519480",
+				"url": "https://company.zhaopin.com/CZ698519480.htm",
+				"name": "福州达康同创信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC698519481J00167360805.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "4K-6K",
+			"emplType": "全职",
+			"jobName": "包住java软件开发实习生（大数据方向）",
+			"industry": "160400,210500,160000,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.080442",
+				"lon": "119.262074"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2252",
+					"name": "台江区"
+				}],
+				"display": "福州-台江区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 14:04:58",
+			"createDate": "2018-09-15 14:04:57",
+			"endDate": "2018-10-15 14:04:57",
+			"welfare": ["每年多次调薪",
+			"绩效奖金",
+			"带薪年假",
+			"弹性工作",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 476.96,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "100%"
+		},
+		{
+			"number": "CZ895475340J00133045607",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ895475340",
+				"url": "https://company.zhaopin.com/CZ895475340.htm",
+				"name": "泽尔聚创(福建)信息技术有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CZ895475340J00133045607.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "8K-15K",
+			"emplType": "全职",
+			"jobName": "java工程师",
+			"industry": "160400,160000,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.052640",
+				"lon": "119.340761"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 19:53:17",
+			"createDate": "2018-09-14 17:10:23",
+			"endDate": "2018-10-14 17:10:23",
+			"welfare": ["创业公司",
+			"五险一金",
+			"带薪年假",
+			"绩效奖金",
+			"弹性工作"],
+			"saleType": 0,
+			"feedbackRation": 0.9231,
+			"score": 476.924,
+			"resumeCount": 9,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "92%"
+		},
+		{
+			"number": "CC340066535J90250037000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ340066530",
+				"url": "https://company.zhaopin.com/CZ340066530.htm",
+				"name": "福州探索网络科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/340066535250037.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "5K-7K",
+			"emplType": "全职",
+			"jobName": "Java开发",
+			"industry": "160400,160000,160100,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.057824",
+				"lon": "119.237372"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 10:29:17",
+			"createDate": "2018-08-17 10:57:42",
+			"endDate": "2018-09-16 10:57:42",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"定期体检",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 0.9231,
+			"score": 476.924,
+			"resumeCount": 10,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20171107/17589EE104F0477BAD387B5924B14101.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "92%"
+		},
+		{
+			"number": "CC460015626J90250299000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ460015620",
+				"url": "https://company.zhaopin.com/CZ460015620.htm",
+				"name": "福州达内信息科技有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/460015626250299.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "13",
+				"name": "中技"
+			},
+			"salary": "4K-6K",
+			"emplType": "全职",
+			"jobName": "java开发工程师+经验不限",
+			"industry": "201100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.053175",
+				"lon": "119.255503"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2251",
+					"name": "鼓楼区"
+				}],
+				"display": "福州-鼓楼区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 14:32:36",
+			"createDate": "2018-09-14 14:32:36",
+			"endDate": "2018-10-14 14:32:36",
+			"welfare": ["每年多次调薪",
+			"五险一金",
+			"绩效奖金",
+			"加班补助",
+			"带薪年假"],
+			"saleType": 0,
+			"feedbackRation": 0.9167,
+			"score": 476.668,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "91%"
+		},
+		{
+			"number": "CC493977132J00071602102",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ493977130",
+				"url": "https://company.zhaopin.com/CZ493977130.htm",
+				"name": "福建国信立联信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC493977132J00071602102.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "10K-15K",
+			"emplType": "全职",
+			"jobName": "java开发工程师 （仓储管理方向）",
+			"industry": "160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.085653",
+				"lon": "119.325538"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-11 14:06:15",
+			"createDate": "2018-05-15 09:43:33",
+			"endDate": "2019-04-27 23:59:59",
+			"welfare": ["周末双休",
+			"五险一金",
+			"年底双薪",
+			"带薪年假",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 0.973,
+			"score": 476.2,
+			"resumeCount": 8,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/049/397/049397713/logo/eee66694-2126-4f4a-ae7c-7f5cc826152d.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "97%"
+		},
+		{
+			"number": "CC396310285J90250095000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ396310280",
+				"url": "https://company.zhaopin.com/CZ396310280.htm",
+				"name": "易联众健康医疗控股有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/396310285250095.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "7K-14K",
+			"emplType": "全职",
+			"jobName": "JAVA开发工程师",
+			"industry": "160400,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.100888",
+				"lon": "119.284812"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-10 15:26:38",
+			"createDate": "2018-09-10 15:26:37",
+			"endDate": "2018-10-10 15:26:37",
+			"welfare": ["周末双休",
+			"五险一金",
+			"绩效奖金",
+			"带薪年假",
+			"补充医疗保险"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 476.16,
+			"resumeCount": 19,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20161028/03240B887A4B4AEB9D55B04426EC1229.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CC322516633J90250111000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "79",
+					"name": "软件研发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件研发工程师"
+			},
+			"company": {
+				"number": "CZ322516630",
+				"url": "https://company.zhaopin.com/CZ322516630.htm",
+				"name": "福建数联信息技术有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/322516633250111.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "4K-8K",
+			"emplType": "全职",
+			"jobName": "JAVA工程师",
+			"industry": "160400,160000,160200,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.058111",
+				"lon": "119.258759"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 17:40:35",
+			"createDate": "2018-03-02 11:21:01",
+			"endDate": "2018-10-22 23:59:59",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"交通补助",
+			"通讯补贴",
+			"带薪年假"],
+			"saleType": 0,
+			"feedbackRation": 0.9841,
+			"score": 476.004,
+			"resumeCount": 11,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "98%"
+		},
+		{
+			"number": "CC160186813J00131903602",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ160186810",
+				"url": "http://special.zhaopin.com/pagepublish/16018681/index.html",
+				"name": "厦门亿力吉奥信息科技有限公司",
+				"size": {
+					"code": "4",
+					"name": "500-999人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC160186813J00131903602.htm",
+			"workingExp": {
+				"code": "510",
+				"name": "5-10年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-20K",
+			"emplType": "全职",
+			"jobName": "【福州】java开发工程师",
+			"industry": "160000,160400,160200",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.085376",
+				"lon": "119.325789"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-10 08:55:55",
+			"createDate": "2018-09-03 08:56:24",
+			"endDate": "2018-10-03 08:56:24",
+			"welfare": ["五险一金",
+			"交通补助",
+			"餐补",
+			"通讯补贴",
+			"带薪年假"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 476,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/016/018/016018681/logo/60666802-c9fb-402f-a629-5b6f192e6f0e.png",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		},
+		{
+			"number": "CC698519481J00167277105",
+			"jobType": {
+				"items": [{
+					"code": "5001000",
+					"name": "电信/通信技术开发及应用"
+				},
+				{
+					"code": "325",
+					"name": "电信网络工程师"
+				}],
+				"display": "电信/通信技术开发及应用,电信网络工程师"
+			},
+			"company": {
+				"number": "CZ698519480",
+				"url": "https://company.zhaopin.com/CZ698519480.htm",
+				"name": "福州达康同创信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC698519481J00167277105.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "4K-6K",
+			"emplType": "全职",
+			"jobName": "4.5K/Java开发实习生（包住+双休）",
+			"industry": "160400,210500,160000,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.080442",
+				"lon": "119.262074"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2252",
+					"name": "台江区"
+				}],
+				"display": "福州-台江区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 17:07:16",
+			"createDate": "2018-09-15 17:07:15",
+			"endDate": "2018-10-15 17:07:15",
+			"welfare": ["每年多次调薪",
+			"绩效奖金",
+			"带薪年假",
+			"弹性工作",
+			"员工旅游"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 476,
+			"resumeCount": 5,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "100%"
+		},
+		{
+			"number": "CC493977132J90250005000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ493977130",
+				"url": "https://company.zhaopin.com/CZ493977130.htm",
+				"name": "福建国信立联信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/493977132250005.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "7K-13K",
+			"emplType": "全职",
+			"jobName": "JAVA开发工程师",
+			"industry": "160400,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.085209",
+				"lon": "119.325951"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 10:11:01",
+			"createDate": "2018-02-24 14:11:59",
+			"endDate": "2018-12-13 23:59:59",
+			"welfare": ["五险一金",
+			"绩效奖金",
+			"加班补助",
+			"交通补助",
+			"通讯补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.9859,
+			"score": 475.276,
+			"resumeCount": 18,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/049/397/049397713/logo/eee66694-2126-4f4a-ae7c-7f5cc826152d.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "98%"
+		},
+		{
+			"number": "CC348415584J90250044000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "665",
+					"name": "需求工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,需求工程师"
+			},
+			"company": {
+				"number": "CZ348415580",
+				"url": "https://company.zhaopin.com/CZ348415580.htm",
+				"name": "福州新途信息科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/348415584250044.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "4K-8K",
+			"emplType": "全职",
+			"jobName": "JAVA软件工程师(3年以上)",
+			"industry": "160400",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.042719",
+				"lon": "119.214750"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 16:15:06",
+			"createDate": "2018-09-07 08:03:36",
+			"endDate": "2019-01-04 08:03:36",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"年终分红",
+			"包住",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 0.8696,
+			"score": 474.784,
+			"resumeCount": 8,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "https://fileihr.zhaopin.com/034/841/034841558/logo/3f1a4e86-86e8-4e53-9183-85c2ee11e5e5.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "86%"
+		},
+		{
+			"number": "CC270141214J90250700000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ270141210",
+				"url": "http://special.zhaopin.com/pagepublish/27014121/index.html",
+				"name": "金钱猫科技股份有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "8",
+					"name": "股份制企业"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/270141214250700.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-20K",
+			"emplType": "全职",
+			"jobName": "JAVA软件研发",
+			"industry": "300100,160200,160100,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.051002",
+				"lon": "119.312537"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-15 10:35:23",
+			"createDate": "2018-08-25 15:36:37",
+			"endDate": "2018-09-24 15:36:37",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"包住"],
+			"saleType": 0,
+			"feedbackRation": 0.8684,
+			"score": 474.736,
+			"resumeCount": 8,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20151023/E3F342EDF2CE49D08F53B33B094193A4.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": "86%"
+		},
+		{
+			"number": "CC293176837J00133108804",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ293176830",
+				"url": "https://company.zhaopin.com/CZ293176830.htm",
+				"name": "福州分啦网络科技有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC293176837J00133108804.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "6K-12K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师五险一金",
+			"industry": "210500,160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.028997",
+				"lon": "119.270117"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				},
+				{
+					"code": "2253",
+					"name": "仓山区"
+				}],
+				"display": "福州-仓山区"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-11 09:18:01",
+			"createDate": "2018-09-07 09:46:02",
+			"endDate": "2018-10-07 09:46:02",
+			"welfare": [],
+			"saleType": 0,
+			"feedbackRation": 0.8571,
+			"score": 474.284,
+			"resumeCount": 7,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "//company.zhaopin.com/CompanyLogo/20170726/AE1E3AA311EC0BAF32375865F31B29D3.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "85%"
+		},
+		{
+			"number": "CC700497024J90250013000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "45",
+					"name": "软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,软件工程师"
+			},
+			"company": {
+				"number": "CZ700497020",
+				"url": "https://company.zhaopin.com/CZ700497020.htm",
+				"name": "福州迅腾信息技术有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "1",
+					"name": "国企"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/700497024250013.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "6K-12K",
+			"emplType": "全职",
+			"jobName": "java开发工程师",
+			"industry": "210500,160400,160000,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "0",
+				"lon": "0"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 09:30:56",
+			"createDate": "2018-09-03 16:57:19",
+			"endDate": "2018-12-02 16:57:19",
+			"welfare": ["节日福利",
+			"五险一金",
+			"年底双薪",
+			"全勤奖",
+			"餐补"],
+			"saleType": 0,
+			"feedbackRation": 0.8559,
+			"score": 474.236,
+			"resumeCount": 56,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "85%"
+		},
+		{
+			"number": "CC139189881J90256414000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "44",
+					"name": "高级软件工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,高级软件工程师"
+			},
+			"company": {
+				"number": "CZ139189880",
+				"url": "https://company.zhaopin.com/CZ139189880.htm",
+				"name": "福建星网锐捷通讯股份有限公司",
+				"size": {
+					"code": "5",
+					"name": "1000-9999人"
+				},
+				"type": {
+					"code": "9",
+					"name": "上市公司"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/139189881256414.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "10K-17K",
+			"emplType": "全职",
+			"jobName": "java高级工程师",
+			"industry": "160100,160400,300100",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.055219",
+				"lon": "119.243130"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 17:08:25",
+			"createDate": "2018-08-07 08:52:18",
+			"endDate": "2018-10-10 08:52:18",
+			"welfare": ["节日福利",
+			"五险一金",
+			"定期体检",
+			"高温补贴"],
+			"saleType": 0,
+			"feedbackRation": 0.4615,
+			"score": 474.22,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1003,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最新",
+			"rate": ""
+		},
+		{
+			"number": "CC558312434J00104881204",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ558312430",
+				"url": "https://company.zhaopin.com/CZ558312430.htm",
+				"name": "福水智联技术有限公司",
+				"size": {
+					"code": "3",
+					"name": "100-499人"
+				},
+				"type": {
+					"code": "4",
+					"name": "合资"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC558312434J00104881204.htm",
+			"workingExp": {
+				"code": "103",
+				"name": "1-3年"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "6K-10K",
+			"emplType": "全职",
+			"jobName": "Java开发工程师（国资持股+双休+福利优厚）",
+			"industry": "160000",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.073021",
+				"lon": "119.248980"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-13 08:22:26",
+			"createDate": "2018-09-13 08:22:26",
+			"endDate": "2018-10-13 08:22:26",
+			"welfare": ["节日福利",
+			"五险一金",
+			"绩效奖金",
+			"全勤奖",
+			"交通补助"],
+			"saleType": 0,
+			"feedbackRation": 0.875,
+			"score": 474.04,
+			"resumeCount": 10,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "//company.zhaopin.com/CompanyLogo/20180508/CB5F368B42389BDF79A38FF5D1108EE6.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "87%"
+		},
+		{
+			"number": "CC322516633J00131828508",
+			"jobType": {
+				"items": [{
+					"code": "5006000",
+					"name": "实习生/培训生/储备干部"
+				},
+				{
+					"code": "299",
+					"name": "实习生"
+				}],
+				"display": "实习生/培训生/储备干部,实习生"
+			},
+			"company": {
+				"number": "CZ322516630",
+				"url": "https://company.zhaopin.com/CZ322516630.htm",
+				"name": "福建数联信息技术有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/CC322516633J00131828508.htm",
+			"workingExp": {
+				"code": "-1",
+				"name": "不限"
+			},
+			"eduLevel": {
+				"code": "4",
+				"name": "本科"
+			},
+			"salary": "1K-1K",
+			"emplType": "实习",
+			"jobName": "JAVA实习生",
+			"industry": "160400,160000,160200,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.054412",
+				"lon": "119.261221"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-09-14 16:37:02",
+			"createDate": "2018-08-23 08:59:58",
+			"endDate": "2018-09-22 08:59:58",
+			"welfare": [],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 473.92,
+			"resumeCount": 4,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "最近",
+			"rate": "100%"
+		},
+		{
+			"number": "CC340066535J90250052000",
+			"jobType": {
+				"items": [{
+					"code": "160000",
+					"name": "软件/互联网开发/系统集成"
+				},
+				{
+					"code": "2040",
+					"name": "Java开发工程师"
+				}],
+				"display": "软件/互联网开发/系统集成,Java开发工程师"
+			},
+			"company": {
+				"number": "CZ340066530",
+				"url": "https://company.zhaopin.com/CZ340066530.htm",
+				"name": "福州探索网络科技有限公司",
+				"size": {
+					"code": "2",
+					"name": "20-99人"
+				},
+				"type": {
+					"code": "5",
+					"name": "民营"
+				}
+			},
+			"positionURL": "https://jobs.zhaopin.com/340066535250052.htm",
+			"workingExp": {
+				"code": "305",
+				"name": "3-5年"
+			},
+			"eduLevel": {
+				"code": "5",
+				"name": "大专"
+			},
+			"salary": "8K-13K",
+			"emplType": "全职",
+			"jobName": "Java后端开发",
+			"industry": "160400,160000,160100,210500",
+			"recruitCount": 0,
+			"geo": {
+				"lat": "26.074507",
+				"lon": "119.296494"
+			},
+			"city": {
+				"items": [{
+					"code": "681",
+					"name": "福州"
+				}],
+				"display": "福州"
+			},
+			"applyType": "1",
+			"updateDate": "2018-08-20 10:13:19",
+			"createDate": "2018-06-19 15:00:32",
+			"endDate": "2019-02-26 23:59:59",
+			"welfare": ["五险一金",
+			"年底双薪",
+			"定期体检",
+			"节日福利"],
+			"saleType": 0,
+			"feedbackRation": 1,
+			"score": 473.36,
+			"resumeCount": 2,
+			"showLicence": 0,
+			"interview": 0,
+			"companyLogo": "http://company.zhaopin.com/CompanyLogo/20171107/17589EE104F0477BAD387B5924B14101.jpg",
+			"tags": [],
+			"vipLevel": 1002,
+			"expandCount": 0,
+			"positionLabel": "",
+			"duplicated": false,
+			"futureJob": false,
+			"selected": false,
+			"applied": false,
+			"collected": false,
+			"isShow": false,
+			"timeState": "招聘中",
+			"rate": "100%"
+		}],
+		"debugInfo": [],
+		"facets": [],
+		"extend": "",
+		"method": "",
+		"taskId": "36b291a8-a4a7-4b81-b19a-8e7958694be5",
+		"scores": null
+	}
+}
