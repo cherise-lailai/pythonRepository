@@ -1,3 +1,3 @@
-1¡¢ÏîÄ¿¹¦ÄÜÎª£ºÅÀÈ¡ÖÇÁªÕÐÆ¸£¨Ìõ¼þÎª£º¸£ÖÝ¡¢¹Ø¼ü×ÖÎªjava»òÕßpython£©µÄ¸ÚÎ»Êý¾ÝÐÅÏ¢£¬´æÈësqliteÊý¾Ý¿â£¬²¢½øÐÐÊý¾ÝÇåÏ´ÓëÊý¾Ý¿ÉÊÓ»¯¡£
-2¡¢²©¿ÍµØÖ·
-3¡¢githubµØÖ·
+1ã€é¡¹ç›®åŠŸèƒ½ä¸ºï¼š   çˆ¬å–æ™ºè”æ‹›è˜ï¼ˆæ¡ä»¶ä¸ºï¼šç¦å·žã€å…³é”®å­—ä¸ºjavaæˆ–è€…pythonï¼‰çš„å²—ä½æ•°æ®ä¿¡æ¯ï¼Œå­˜å…¥sqliteæ•°æ®åº“ï¼Œå¹¶è¿›è¡Œæ•°æ®æ¸…æ´—ä¸Žæ•°æ®å¯è§†åŒ–ã€‚
+2ã€åšå®¢åœ°å€ï¼š     https://blog.csdn.net/lys1695227550/article/details/82730024
+3ã€githubåœ°å€ï¼š   https://github.com/cherise-lailai/pythonRepository.git
